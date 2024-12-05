@@ -1,10 +1,8 @@
 # **Problem: Luckiest Auspicious Number**
 
-### **Platform**  
-Custom Problem  
+### **Platform:** Hackerrank
 
-### **Difficulty**  
-Medium  
+### **Difficulty:** Medium  
 
 ---
 
