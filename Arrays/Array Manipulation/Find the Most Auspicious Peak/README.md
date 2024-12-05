@@ -24,9 +24,9 @@ Your task is to determine the auspicious number with the highest luckiness score
 ---
 
 ### **Constraints**
-- \( 1 \leq T \leq 500 \)
-- \( 1 \leq M, N \leq 1000 \)
-- \( 1 \leq H[i], A[i] \leq 100,000 \)
+- 1≤T≤500
+-1≤M,N≤1000
+-1≤H[i],A[i]≤100,000
 
 ---
 
