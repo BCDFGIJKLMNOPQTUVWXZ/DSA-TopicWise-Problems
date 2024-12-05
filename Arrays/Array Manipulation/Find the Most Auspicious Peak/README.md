@@ -23,13 +23,6 @@ Your task is to determine the auspicious number with the highest luckiness score
 
 ---
 
-### **Constraints**
-- \( 1 \leq T \leq 500 \)
-- \( 1 \leq M, N \leq 1000 \)
-- \( 1 \leq H[i], A[i] \leq 100,000 \)
-
----
-
 ### **Approach**
 To solve this problem efficiently, we use **number theory** and **precomputation**:
 1. **Precompute Divisors:**
