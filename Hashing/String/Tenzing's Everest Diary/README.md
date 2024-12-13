@@ -22,12 +22,6 @@ For each test case, output the day count (an integer) of the given date from the
 
 ---
 
-## Constraints
-- \( 1 \leq T \leq 500 \)
-- Valid months: `Jan`, `Feb`, `Mar`, `Apr`, `May`, `Jun`, `Jul`, `Aug`, `Sep`, `Oct`, `Nov`, `Dec`
-
----
-
 ## Approach
 ### Key Observations:
 1. **Non-leap Year Days in Months**:
