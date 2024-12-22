@@ -28,15 +28,6 @@ For each test case, output the \( k \)-th element of the combined sorted array.
 
 ---
 
-## Constraints
-
-- \( 1 \leq T \leq 100 \)
-- \( 1 \leq n, m \leq 10^5 \)
-- \( 1 \leq k \leq n + m \)
-- \( -10^9 \leq a[i], b[j] \leq 10^9 \)
-
----
-
 ## Example
 
 ### Input
