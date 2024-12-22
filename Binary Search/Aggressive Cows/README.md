@@ -1,7 +1,7 @@
 # Aggressive Cows
 
 **Difficulty**: Medium  
-**Platform**: Custom  
+**Platform**: Geeks for Geeks 
 
 ---
 
