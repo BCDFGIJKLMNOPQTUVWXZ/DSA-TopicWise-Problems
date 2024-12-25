@@ -1,6 +1,7 @@
 # Problem: Koko Eating Bananas
 
 **Platform:** GeeksforGeeks
+
 **Difficulty:** Medium
 
 ## Problem Statement
