@@ -1,6 +1,6 @@
 # Problem: Minimum Days to Make M Bouquets
 
-**Platform:** Custom  
+**Platform:** GeeksforGeeks
 
 **Difficulty:** Medium  
 
