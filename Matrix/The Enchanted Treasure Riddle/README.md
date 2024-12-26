@@ -31,8 +31,11 @@ For each test case, print the minimum number of operations required to transform
 
 ### Input
 1
+
 2 2 2
+
 2 4
+
 6 8
 
 ### Output
