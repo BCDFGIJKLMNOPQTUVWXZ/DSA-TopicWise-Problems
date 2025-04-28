@@ -1,6 +1,7 @@
 # Valid Parentheses
 
 Platform : GeeksforGeeks
+
 Difficulty : Easy
 
 ## Problem Description
