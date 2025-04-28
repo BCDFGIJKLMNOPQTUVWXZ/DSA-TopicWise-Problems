@@ -1,7 +1,7 @@
 # Valid Parentheses
 
-## Platform : GeeksforGeeks
-## Difficulty : Easy
+Platform : GeeksforGeeks
+Difficulty : Easy
 
 ## Problem Description
 Given a string `s` consisting of characters `(`, `)`, `{`, `}`, `[` and `]`, 
